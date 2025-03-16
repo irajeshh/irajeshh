@@ -3,7 +3,6 @@
 👯 Always trying to wind up the things based on what I know well
 🌱 Currently learning native web techs
 
-[![](https://visitcount.itsvg.in/api?id=irajeshh&icon=1&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCsFrSsQOxj37JHffAIQUeZQ)
@@ -20,9 +19,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=irajeshh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=irajeshh&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=irajeshh&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=irajeshh&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=irajeshh&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=irajeshh&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=irajeshh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=irajeshh&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
