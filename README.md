@@ -1,4 +1,5 @@
-# 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hellow%2C...I'm+Rajesh,)](https://git.io/typing-svg)
+
 🔭 24x7 Flutter...
 👯 Always trying to wind up the things based on what I know well
 🌱 Currently learning native web techs
